@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCProgressHUDKit'
-  s.version          = '0.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'CCProgressHUDKit 是一个展示的框架，目前只是对该框架做了修改，后续会使用扁平的框架替换掉.'
 
 # This description is used to generate tags and improve search results.
