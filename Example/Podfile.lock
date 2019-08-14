@@ -1,0 +1,16 @@
+PODS:
+  - CCProgressHUDKit (0.1.0)
+
+DEPENDENCIES:
+  - CCProgressHUDKit (from `../`)
+
+EXTERNAL SOURCES:
+  CCProgressHUDKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCProgressHUDKit: ad0e2c25ff9eb0069d1e85096f97b7bb6f0a6692
+
+PODFILE CHECKSUM: 033faa8cb1b1063b38be62e25d807d201f1698ed
+
+COCOAPODS: 1.7.4
